@@ -1,0 +1,5 @@
+Email,Date,Amount,Status
+john.doe@example.com,2025-01-01,50.00,Completed
+jane.smith@example.com,2025-01-02,100.00,Pending
+michael.brown@example.com,2025-01-03,75.00,Shipped
+sarah.johnson@example.com,2025-01-04,120.00,Cancelled
